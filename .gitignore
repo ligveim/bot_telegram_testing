@@ -1,0 +1,26 @@
+# API Keys and secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Memory files (optional - uncomment if you don't want to track them)
+# memory/logs.json
+# memory/last_post.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
